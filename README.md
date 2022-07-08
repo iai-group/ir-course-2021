@@ -25,12 +25,12 @@ The overall grade came from two components, both of which needed to be >F in ord
 | 2 | Text clustering and similarity | [lecture](lectures/L2) | [exercises](exercises/E2), [solutions](solutions/E2) |
 | 3 | Search engine architecture and basic retrieval models | [lecture](lectures/L3) | [exercises](exercises/E3), [solutions](solutions/E3) |
 | 4 | Retrieval evaluation | [lecture](lectures/L4) | [exercises](exercises/E4), [solutions](solutions/E4) |
-| 5 | Advanced retrieval models | | |
-| 6 | Entity-oriented search Part I (knowledge bases and entity retrieval) | | |
-| 7 | Entity-oriented search Part II (entity linking and knowledge base population) | | |
-| 8 | Entity-oriented search Part III (semantic search) | | |
-| 9 | Neural IR | | |
-| 10 | Advanced topics | | |
+| 5 | Advanced retrieval models | | [exercises](exercises/E5), [solutions](solutions/E5) |
+| 6 | Entity-oriented search Part I (knowledge bases and entity retrieval) | | [exercises](exercises/E6), [solutions](solutions/E6) |
+| 7 | Entity-oriented search Part II (entity linking and knowledge base population) | | [exercises](exercises/E7), [solutions](solutions/E7) |
+| 8 | Entity-oriented search Part III (semantic search) | | [exercises](exercises/E8), [solutions](solutions/E8) |
+| 9 | Neural IR | | [exercises](exercises/E9), [solutions](solutions/E9) |
+| 10 | Advanced topics | | [exercises](exercises/E10), [solutions](solutions/E10) |
 
 ### Textbooks
 
