@@ -26,9 +26,9 @@ The overall grade came from two components, both of which needed to be >F in ord
 | 3 | Search engine architecture and basic retrieval models | [lecture](lectures/L3) | [exercises](exercises/E3), [solutions](solutions/E3) |
 | 4 | Retrieval evaluation | [lecture](lectures/L4) | [exercises](exercises/E4), [solutions](solutions/E4) |
 | 5 | Advanced retrieval models | | [exercises](exercises/E5), [solutions](solutions/E5) |
-| 6 | Entity-oriented search Part I (knowledge bases and entity retrieval) | | [exercises](exercises/E6), [solutions](solutions/E6) |
+| 6 | Entity-oriented search Part I (knowledge bases and entity retrieval) | [lecture](lectures/L6) | [exercises](exercises/E6), [solutions](solutions/E6) |
 | 7 | Entity-oriented search Part II (entity linking and knowledge base population) | | [exercises](exercises/E7), [solutions](solutions/E7) |
-| 8 | Entity-oriented search Part III (semantic search) | | [exercises](exercises/E8), [solutions](solutions/E8) |
+| 8 | Entity-oriented search Part III (semantic search) | [lecture](lectures/L8) | [exercises](exercises/E8), [solutions](solutions/E8) |
 | 9 | Neural IR | | [exercises](exercises/E9), [solutions](solutions/E9) |
 | 10 | Advanced topics | | [exercises](exercises/E10), [solutions](solutions/E10) |
 

@@ -5,19 +5,21 @@ The last module in the entity-oriented search series focuses on semantic search.
 
 ## Lecture videos and slides
 
-| **Module** | **Topic** | **Lecture material** | 
-| -- | -- | -- | 
+| **Module** | **Topic** | **Lecture material** |
+| -- | -- | -- |
+| L8-1 | Understanding information needs | Read: Balog: Chapter 7, **slides to be added** |
+| L8-2 | Leveraging entities in document retrieval | Read: Balog: Chapter 8, **slides to be added** |
 
 ## Reading
 
   * Entity-Oriented Search (Balog)
-    - Chapter 7: 
+    - Chapter 7:
       - Section 7.2, until 7.2.4.1 (inclusive)
       - Section 7.3, until 7.3.2 (inclusive)
     - Chapter 8:
       - Introduction and Section 8.1
       - Sections 8.3--8.4.2.3 (inclusive)
-  
+
 ## Summary
 
 Key concepts in this lecture:
