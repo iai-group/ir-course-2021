@@ -1,10 +1,9 @@
 # Exercises
 
-These exercises are solved and discussed during the classroom sessions (Wednesdays).
+These exercises were solved and discussed during the in-person classroom sessions.
 
-The exercises build on the preceding lectures; therefore, it is expected that for exercise **E{n}**, you have covered lectures **L{1}**..**L{n}**.
+The exercises build on the preceding lectures; therefore, it is expected that for exercise **E{n}**, one has covered lectures **L{1}**..**L{n}**.
 
-The solutions will be posted the same day after the class session.
 
 ## Prerequisites
 
@@ -23,11 +22,11 @@ When using git, the repository is supposed to be used in read-only mode, that is
 
 ### Specific steps
 
-  * **First time (if using git)**: Clone the repository `https://github.com/kbalog/ir-course` to your computer.
-    - Note: unless you're a git guru and you know what you're doing, simply clone it and don't fork it. 
+  * **First time (if using git)**: Clone this repository to your computer.
+    - Note: unless you're a git guru and you know what you're doing, simply clone it and don't fork it.
   * **At the beginning of each class session**: Pull changes from the repository or download the files from the `exercises/E{n}` folder manually..
   * **Complete the exercises in the Jupyter notebook(s)**
     - Easiest is to navigate to the `[YOUR_LOCAL_FOLDER]/exercises` folder and issue `jupyter notebook` in a terminal/command line window. (`YOUR_LOCAL_FOLDER` either refers to the folder where you cloned the git repo or where you saved the files manually.)
-    - Complete the exercises by making the tests pass. 
+    - Complete the exercises by making the tests pass.
     - Do *NOT* commit/push changes, as you won't be able to submit them.
   * **Study the reference solutions** (posted [here](solutions/)) after the class session.

@@ -3,24 +3,11 @@
 ## Objectives
 
 The objective of project work is to apply the knowledge gained in the course, in a group setting, to a selected (open) information retrieval problem.
-Specifically, you'll first need to establish a reasonable baseline, then develop one or multiple advanced methods aiming to improve over the baseline. Using a standard test collection, you'll need to experimentally compare the baseline and advanced solutions.
-
-## Weekly meeting slots
-
-Each group will be allocated a dedicated 15mins slot (during what would normally be lecture/class hours on Tue/Wed) to discuss their progress. It is expected that at least one member of the group is present in person.
-
-*Teams and weekly meeting slots are published on [Canvas](https://stavanger.instructure.com/courses/8838/pages/group-project).*
-
-
-## Deadlines
-
-  * **October 27 (Wed) 16:00** Registration of groups by filling out [this form](https://forms.gle/DQNUr2vbNfsRPWSH7). If you don't register, you'll be "randomly" assigned with other people.
-  * **Nov 12 (Fri) 12:00** Delivery of draft project report for feedback. Feedback will be given during the Tue/Wed meeting the week after.
-  * **Nov 22 (Mon) 12:00** Delivery of final project report. 
+Specifically, groups first needed to establish a reasonable baseline, then develop one or multiple advanced methods aiming to improve over the baseline. Using a standard test collection, they had to experimentally compare the baseline and advanced solutions.
 
 ## Projects
 
-You may choose one from the following projects:
+The following projects were available to choose from:
 
   * **[MS Marco Document re-ranking](https://microsoft.github.io/msmarco/)**
     - Given a candidate top-100 document as retrieved by BM25, re-rank documents by relevance. This task has also run as part of the TREC 2019 Deep Learning track.
